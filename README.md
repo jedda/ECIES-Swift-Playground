@@ -12,7 +12,7 @@ I've also written a little more about this topic here - [Cross Platform ECIES en
 
 It can be used alongside this [ECIES Go Example](https://github.com/jedda/ecies-go-example) code to learn how to encrypt and decrypt data in a cross-platform implementation compatible with Apple platforms.
 
-## Questions? Feedback?
+### Questions? Feedback?
 
 [Feel free to reach out](https://jedda.me/about/) or [create an issue](https://github.com/jedda/ecies-swift-playground/issues) on GitHub.
 
