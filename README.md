@@ -6,6 +6,8 @@ It contains examples for both encrypting and decrypting using ECIES in Apple's s
 
 Hopefully it is helpful to anyone wanting to implement or learn more about how this encryption scheme works.
 
+I've also written a little more about this topic here - [Cross Platform ECIES encryption with Swift & Apple's Secure Enclave](https://jedda.me/cross-platform-encryption-with-apples-secure-enclave).
+
 ### Cross Platform Go Example
 
 It can be used alongside this [ECIES Go Example](https://github.com/jedda/ecies-go-example) code to learn how to encrypt and decrypt data in a cross-platform implementation compatible with Apple platforms.
